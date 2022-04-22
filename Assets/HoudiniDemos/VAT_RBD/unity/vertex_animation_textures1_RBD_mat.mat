@@ -68,11 +68,11 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _colTexture:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 6357c6bc67d8948df8fae0ef33631aa8, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _posTexture:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 60c35c086b1f44a6e9aa2941805dd19b, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _posTexture2:
@@ -80,7 +80,7 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _rotTexture:
-        m_Texture: {fileID: 0}
+        m_Texture: {fileID: 2800000, guid: 2c2c82933eea647c1a54621bf7a9f258, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _spareColTexture:
@@ -108,7 +108,7 @@ Material:
     - _B_SMOOTH_TRAJECTORIES: 0
     - _B_animateFirstFrame: 0
     - _B_autoPlayback: 1
-    - _B_interpolate: 0
+    - _B_interpolate: 1
     - _B_interpolateCol: 0
     - _B_interpolateSpareCol: 0
     - _B_pscaleAreInPosA: 1
@@ -141,17 +141,17 @@ Material:
     - _Surface: 0
     - _WorkflowMode: 1
     - _ZWrite: 1
-    - _boundMaxX: 3.5999999046325684
-    - _boundMaxY: 2.4000000953674316
-    - _boundMaxZ: 8.429999351501465
-    - _boundMinX: -2.5999999046325684
-    - _boundMinY: -0.20100000500679016
-    - _boundMinZ: -1.600000023841858
+    - _boundMaxX: 3.6
+    - _boundMaxY: 2.4
+    - _boundMaxZ: 8.429999
+    - _boundMinX: -2.6
+    - _boundMinY: -0.201
+    - _boundMinZ: -1.6
     - _displayFrame: 1
-    - _frameCount: 240
+    - _frameCount: 100
     - _gameTimeAtFirstFrame: 0
     - _globalPscaleMul: 1
-    - _houdiniFPS: 24.0
+    - _houdiniFPS: 30
     - _playbackSpeed: 1
     - _stretchByVelAmount: 0
     m_Colors:
