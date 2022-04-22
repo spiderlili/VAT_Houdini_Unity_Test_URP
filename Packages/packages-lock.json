@@ -1,5 +1,13 @@
 {
   "dependencies": {
+    "com.sidefx.vat": {
+      "version": "file:/Applications/Houdini/sidefx_packages/SideFXLabs19.0/unity/shaders/URP_VAT3",
+      "depth": 0,
+      "source": "local",
+      "dependencies": {
+        "com.unity.render-pipelines.universal": "12.0.0"
+      }
+    },
     "com.unity.burst": {
       "version": "1.6.0-pre.2",
       "depth": 1,
