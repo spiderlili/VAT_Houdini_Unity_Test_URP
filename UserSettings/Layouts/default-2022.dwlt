@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 15
+  controlID: 46
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 577
     height: 951
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 16
+  controlID: 47
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 17
+  controlID: 48
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -2834,8 +2834,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 717
+    x: -1893
+    y: 829
     width: 1214
     height: 232
   m_ViewDataDictionary: {fileID: 0}
@@ -2856,22 +2856,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/HoudiniDemos/VAT_RBD/tex/buildingModernBlast
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/HoudiniDemos/VAT_RBD/tex/buildingModernBlast
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/jingtan/Dropbox (Tripledot)/My Mac (Jings-MacBook-Pro.local)/Documents/GitHub/VAT_Houdini_Unity_Test_URP
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 156}
-    m_SelectedIDs: ce730000
-    m_LastClickedID: 29646
-    m_ExpandedIDs: 0000000000660000026600000466000006660000be6700002e73000000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 79}
+    m_SelectedIDs: 1c660000
+    m_LastClickedID: 26140
+    m_ExpandedIDs: 000000001c6600001e660000206600002266000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -2899,7 +2899,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000000660000026600000466000006660000
+    m_ExpandedIDs: 000000001c6600001e6600002066000022660000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -2926,7 +2926,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000a673000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -2975,8 +2975,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 1216
-    y: 19
+    x: -678
+    y: 131
     width: 576
     height: 930
   m_ViewDataDictionary: {fileID: 0}
@@ -3017,8 +3017,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 19
+    x: -1893
+    y: 131
     width: 243
     height: 677
   m_ViewDataDictionary: {fileID: 0}
@@ -3029,23 +3029,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: cacbffff
-      m_LastClickedID: -13366
-      m_ExpandedIDs: 8ad8ffffe2dbffff26fbffff8a650000
+      m_SelectedIDs: caeeffff
+      m_LastClickedID: 0
+      m_ExpandedIDs: 26fbffff8e650000b4650000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: buildingModernMesh
-        m_OriginalName: buildingModernMesh
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -9246
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 4}
       m_SearchString: 
@@ -3381,8 +3381,8 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 245
-    y: 19
+    x: -1649
+    y: 131
     width: 969
     height: 677
   m_ViewDataDictionary: {fileID: 0}
@@ -3404,7 +3404,7 @@ MonoBehaviour:
   m_UseMipMap: 0
   m_VSyncEnabled: 0
   m_Gizmos: 0
-  m_Stats: 1
+  m_Stats: 0
   m_SelectedSizes: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
   m_ZoomArea:
     m_HRangeLocked: 0
